@@ -1,0 +1,25 @@
+﻿table         { border: 0px solid #000000;
+                border-collapse: collapsee;
+    		min-width: 400px;}
+			
+td            { border: 0px solid #000000;}
+
+body		{
+	background: linear-gradient(to top,chartreuse,cyan);
+	background-repeat: no-repeat;
+	background-attachment: fixed ;
+}
+h2{
+	font-family: "Montserrat", sans-serif;
+	font-style: normal;
+	font-size:x-large;
+  }
+p{
+	font-family: "Roboto Condensed", sans-serif;
+	font-optical-sizing: auto;
+	font-weight:800;
+	font-style: normal;
+}
+h3{
+	
+}
