@@ -1,5 +1,5 @@
 # Tawara-Sanctuary-website
-This is a Html, Css based website for Tawara Giraffe Sanctuary. \n
+This is a Html, Css based website for Tawara Giraffe Sanctuary.
 It's my first project on github (also first time making a website not for an exam purpose). 
 The body of the website is table based inserting images and videos. 
 Text formatting is applied using fonts from google. 
